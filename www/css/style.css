@@ -1,0 +1,46 @@
+body
+{
+	overflow: hidden;
+	background-color: #000;
+	padding: 0;
+	margin: 0;
+}
+
+.particule
+{
+	background-color: #FFF;
+	border-radius: 50%;
+}
+
+.xs 
+{
+	width: 1px;
+	height: 1px;
+}
+
+.xm 
+{
+	width: 2px;
+	height: 2px;
+}
+
+.xl 
+{
+	width: 3px;
+	height: 3px;
+}
+
+.light 
+{
+	box-shadow: 0px 0px 70px 10px rgba(255, 255, 255, 1);
+}
+
+.medium 
+{
+	box-shadow: 0px 0px 90px 10px rgba(255, 255, 255, 1);
+}
+
+.medium 
+{
+	box-shadow: 0px 0px 110px 10px rgba(255, 255, 255, 1);
+}
