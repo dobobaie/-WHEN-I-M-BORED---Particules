@@ -131,9 +131,6 @@ var particules = function()
 		}
 		*/
 
-		/*
-			x et y inversé !! ne pas oublié
-		*/
 		return {
 			up: particule.up + particule.trajectory.y.moveActu,
 			left: ((particule.trajectory.typeDirection == true) ? (particule.left + particule.trajectory.x.moveActu) : (particule.left - particule.trajectory.x.moveActu)),
