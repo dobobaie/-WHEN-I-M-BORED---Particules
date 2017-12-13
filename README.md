@@ -1,4 +1,4 @@
-# WHEN I'M BORDER - Particules
+# WHEN I'M BORED - Particules
 
 ## Configuration possible
 
